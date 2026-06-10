@@ -1,0 +1,26 @@
+Olivia Reyes
+olivia.reyes@example.com | +1 (270) 440-5708 | Berlin
+
+SUMMARY
+Security engineer focused on application security, threat modelling, and cloud hardening. 11+ years of professional experience.
+
+EXPERIENCE
+Security Engineer — Streamline, Berlin (2021 - Present)
+  - Built an automated SAST/DAST pipeline catching 90% of vulns pre-release.
+  - Collaborated cross-functionally using Linux, Docker, REST.
+Security Engineer — HealthAI, Berlin (2015 - 2021)
+  - Built an automated SAST/DAST pipeline catching 90% of vulns pre-release.
+  - Collaborated cross-functionally using Python, AWS, REST.
+
+SKILLS
+CI/CD, REST, Python, Linux, Docker, DevOps, AWS, Kubernetes
+
+EDUCATION
+B.S. in Cybersecurity — University of Berlin (2014)
+
+PROJECTS
+- Built an automated SAST/DAST pipeline catching 90% of vulns pre-release.
+- Led a zero-trust network segmentation rollout.
+
+CERTIFICATIONS
+- Google Professional ML Engineer

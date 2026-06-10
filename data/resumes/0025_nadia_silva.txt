@@ -1,0 +1,29 @@
+Nadia Silva
+nadia.silva@example.com | +1 (689) 316-2070 | Austin
+
+SUMMARY
+Backend engineer designing scalable microservices and high-throughput APIs. 6+ years of professional experience.
+
+EXPERIENCE
+Senior Backend Engineer — DataNova, Austin (2024 - Present)
+  - Re-architected a monolith into 30+ microservices on Kubernetes.
+  - Collaborated cross-functionally using Python, Kubernetes, Kafka.
+Senior Backend Engineer — DataNova, Austin (2022 - 2024)
+  - Re-architected a monolith into 30+ microservices on Kubernetes.
+  - Collaborated cross-functionally using Spring, Docker, Microservices.
+Senior Backend Engineer — NimbusTech, Austin (2020 - 2022)
+  - Re-architected a monolith into 30+ microservices on Kubernetes.
+  - Collaborated cross-functionally using Docker, Microservices, REST.
+
+SKILLS
+Spring, PostgreSQL, Kubernetes, Java, Redis, Docker, Python, Microservices, Kafka, REST
+
+EDUCATION
+B.Tech in Computer Engineering — University of Austin (2019)
+
+PROJECTS
+- Re-architected a monolith into 30+ microservices on Kubernetes.
+- Built an event-driven payments service processing $50M/month.
+
+CERTIFICATIONS
+- Google Professional ML Engineer

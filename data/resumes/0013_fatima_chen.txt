@@ -1,0 +1,26 @@
+Fatima Chen
+fatima.chen@example.com | +1 (330) 242-6050 | Singapore
+
+SUMMARY
+Data engineer building reliable batch and streaming data platforms. 8+ years of professional experience.
+
+EXPERIENCE
+Senior Data Engineer — RetailX, Singapore (2022 - Present)
+  - Built a streaming lakehouse ingesting 5TB/day with Spark and Kafka.
+  - Collaborated cross-functionally using Kafka, Spark, Hadoop.
+Data Engineer — BrightLabs, Singapore (2018 - 2022)
+  - Migrated ETL workloads to Airflow improving SLA adherence to 99.5%.
+  - Collaborated cross-functionally using Hadoop, Kafka, Snowflake.
+
+SKILLS
+Snowflake, SQL, Airflow, AWS, Spark, Python, Kafka, Data Engineering, Hadoop
+
+EDUCATION
+M.Tech in Data Science — University of Singapore (2016)
+
+PROJECTS
+- Built a streaming lakehouse ingesting 5TB/day with Spark and Kafka.
+- Migrated ETL workloads to Airflow improving SLA adherence to 99.5%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer

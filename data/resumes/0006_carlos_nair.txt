@@ -1,0 +1,26 @@
+Carlos Nair
+carlos.nair@example.com | +1 (949) 697-2133 | Sydney
+
+SUMMARY
+Data engineer building reliable batch and streaming data platforms. 3+ years of professional experience.
+
+EXPERIENCE
+Data Engineer — CloudReach, Sydney (2025 - Present)
+  - Migrated ETL workloads to Airflow improving SLA adherence to 99.5%.
+  - Collaborated cross-functionally using Data Engineering, Hadoop, AWS.
+Data Engineer — BrightLabs, Sydney (2023 - 2025)
+  - Migrated ETL workloads to Airflow improving SLA adherence to 99.5%.
+  - Collaborated cross-functionally using Kafka, Data Engineering, SQL.
+
+SKILLS
+Python, Spark, Data Engineering, Kafka, Hadoop, AWS, SQL, Snowflake, Airflow
+
+EDUCATION
+M.Tech in Data Science — University of Sydney (2023)
+
+PROJECTS
+- Built a streaming lakehouse ingesting 5TB/day with Spark and Kafka.
+- Migrated ETL workloads to Airflow improving SLA adherence to 99.5%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer

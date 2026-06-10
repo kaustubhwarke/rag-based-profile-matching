@@ -1,0 +1,79 @@
+{
+  "resume_family": {
+    "0001_wei_patel": "ml",
+    "0002_fatima_tanaka": "data_science",
+    "0003_daniel_haddad": "backend",
+    "0004_fatima_dubois": "frontend",
+    "0005_wei_farah": "devops",
+    "0006_carlos_nair": "data_engineering",
+    "0007_elena_khan": "fullstack",
+    "0008_sofia_rossi": "cloud",
+    "0009_liam_nair": "security",
+    "0010_carlos_costa": "ml",
+    "0011_tom_brown": "data_science",
+    "0012_chloe_wang": "data_science",
+    "0013_fatima_chen": "data_engineering",
+    "0014_sofia_iyer": "ml",
+    "0015_olivia_novak": "ml",
+    "0016_lucas_sharma": "devops",
+    "0017_lucas_nair": "backend",
+    "0018_raj_farah": "security",
+    "0019_ananya_costa": "ml",
+    "0020_hannah_garcia": "devops",
+    "0021_wei_lopez": "devops",
+    "0022_ivan_muller": "security",
+    "0023_liam_nair": "fullstack",
+    "0024_hannah_hassan": "frontend",
+    "0025_nadia_silva": "backend",
+    "0026_chloe_smith": "backend",
+    "0027_tom_sato": "fullstack",
+    "0028_lia_haddad": "fullstack",
+    "0029_ahmed_johnson": "devops",
+    "0030_fatima_iyer": "frontend",
+    "0031_mei_brown": "cloud",
+    "0032_olivia_reyes": "security"
+  },
+  "jd_family": {
+    "jd_01_ml_engineer": "ml",
+    "jd_02_backend_engineer": "backend",
+    "jd_03_data_engineer": "data_engineering",
+    "jd_04_frontend_engineer": "frontend",
+    "jd_05_devops_engineer": "devops",
+    "jd_06_cloud_architect": "cloud"
+  },
+  "relevant_by_jd": {
+    "jd_01_ml_engineer": [
+      "0001_wei_patel",
+      "0010_carlos_costa",
+      "0014_sofia_iyer",
+      "0015_olivia_novak",
+      "0019_ananya_costa"
+    ],
+    "jd_02_backend_engineer": [
+      "0003_daniel_haddad",
+      "0017_lucas_nair",
+      "0025_nadia_silva",
+      "0026_chloe_smith"
+    ],
+    "jd_03_data_engineer": [
+      "0006_carlos_nair",
+      "0013_fatima_chen"
+    ],
+    "jd_04_frontend_engineer": [
+      "0004_fatima_dubois",
+      "0024_hannah_hassan",
+      "0030_fatima_iyer"
+    ],
+    "jd_05_devops_engineer": [
+      "0005_wei_farah",
+      "0016_lucas_sharma",
+      "0020_hannah_garcia",
+      "0021_wei_lopez",
+      "0029_ahmed_johnson"
+    ],
+    "jd_06_cloud_architect": [
+      "0008_sofia_rossi",
+      "0031_mei_brown"
+    ]
+  }
+}

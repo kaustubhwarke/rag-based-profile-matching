@@ -1,0 +1,29 @@
+Liam Nair
+liam.nair@example.com | +1 (976) 446-8800 | Dublin
+
+SUMMARY
+Full-stack developer delivering end-to-end features from database to UI. 10+ years of professional experience.
+
+EXPERIENCE
+Staff Full Stack Developer — Acme Corp, Dublin (2023 - Present)
+  - Shipped a SaaS billing module end-to-end used by 500+ customers.
+  - Collaborated cross-functionally using Express, Node.js, Django.
+Full Stack Developer — FinEdge, Dublin (2020 - 2023)
+  - Built REST and GraphQL APIs powering a React dashboard.
+  - Collaborated cross-functionally using REST, Python, PostgreSQL.
+Full Stack Developer — BrightLabs, Dublin (2016 - 2020)
+  - Built REST and GraphQL APIs powering a React dashboard.
+  - Collaborated cross-functionally using Django, MongoDB, Python.
+
+SKILLS
+MongoDB, Node.js, REST, JavaScript, TypeScript, Django, React, Express, PostgreSQL, Python
+
+EDUCATION
+B.S. in Software Engineering — University of Dublin (2014)
+
+PROJECTS
+- Shipped a SaaS billing module end-to-end used by 500+ customers.
+- Built REST and GraphQL APIs powering a React dashboard.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect

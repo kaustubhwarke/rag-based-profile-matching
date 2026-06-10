@@ -1,0 +1,26 @@
+Mei Brown
+mei.brown@example.com | +1 (879) 867-3492 | Dublin
+
+SUMMARY
+Cloud architect designing secure, cost-efficient, highly available systems. 8+ years of professional experience.
+
+EXPERIENCE
+Staff Cloud Solutions Architect — CloudReach, Dublin (2022 - Present)
+  - Cut cloud spend 35% through rightsizing and savings plans.
+  - Collaborated cross-functionally using GCP, Python, AWS.
+Cloud Solutions Architect — BrightLabs, Dublin (2018 - 2022)
+  - Cut cloud spend 35% through rightsizing and savings plans.
+  - Collaborated cross-functionally using AWS, Azure, Kubernetes.
+
+SKILLS
+Python, AWS, Terraform, DevOps, Microservices, Linux, Kubernetes, GCP, Azure
+
+EDUCATION
+M.S. in Computer Science — University of Dublin (2016)
+
+PROJECTS
+- Designed a multi-region active-active architecture with 99.99% uptime.
+- Cut cloud spend 35% through rightsizing and savings plans.
+
+CERTIFICATIONS
+- Azure Solutions Architect Expert

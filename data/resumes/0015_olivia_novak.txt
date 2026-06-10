@@ -1,0 +1,29 @@
+Olivia Novak
+olivia.novak@example.com | +1 (790) 394-5173 | San Francisco
+
+SUMMARY
+Research engineer advancing language understanding with transformer architectures and RAG. 8+ years of professional experience.
+
+EXPERIENCE
+NLP Research Engineer — Acme Corp, San Francisco (2024 - Present)
+  - Published 3 papers on retrieval-augmented generation.
+  - Collaborated cross-functionally using TensorFlow, LLM, Python.
+NLP Research Engineer — RetailX, San Francisco (2021 - 2024)
+  - Built a semantic search engine over 10M documents.
+  - Collaborated cross-functionally using PyTorch, TensorFlow, NLP.
+NLP Research Engineer — BrightLabs, San Francisco (2018 - 2021)
+  - Built a semantic search engine over 10M documents.
+  - Collaborated cross-functionally using Machine Learning, NLP, LLM.
+
+SKILLS
+Python, Machine Learning, NLP, LLM, TensorFlow, PyTorch, Docker, Deep Learning
+
+EDUCATION
+PhD in Computer Science — University of San Francisco (2017)
+
+PROJECTS
+- Published 3 papers on retrieval-augmented generation.
+- Built a semantic search engine over 10M documents.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator

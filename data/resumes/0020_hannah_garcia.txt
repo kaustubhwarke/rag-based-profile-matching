@@ -1,0 +1,29 @@
+Hannah Garcia
+hannah.garcia@example.com | +1 (416) 665-6355 | Singapore
+
+SUMMARY
+DevOps engineer automating CI/CD and infrastructure-as-code across multi-cloud environments. 7+ years of professional experience.
+
+EXPERIENCE
+Staff DevOps Engineer — HealthAI, Singapore (2024 - Present)
+  - Implemented IaC managing 200+ cloud resources via Terraform.
+  - Collaborated cross-functionally using Kubernetes, Azure, Jenkins.
+DevOps Engineer — Acme Corp, Singapore (2022 - 2024)
+  - Reduced deployment time from hours to minutes with GitOps pipelines.
+  - Collaborated cross-functionally using Docker, Ansible, Azure.
+DevOps Engineer — Acme Corp, Singapore (2019 - 2022)
+  - Reduced deployment time from hours to minutes with GitOps pipelines.
+  - Collaborated cross-functionally using Ansible, Python, AWS.
+
+SKILLS
+Kubernetes, Linux, Docker, CI/CD, AWS, Jenkins, Azure, Ansible, Terraform, Python
+
+EDUCATION
+B.E. in Information Technology — University of Singapore (2017)
+
+PROJECTS
+- Reduced deployment time from hours to minutes with GitOps pipelines.
+- Implemented IaC managing 200+ cloud resources via Terraform.
+
+CERTIFICATIONS
+- Google Professional ML Engineer

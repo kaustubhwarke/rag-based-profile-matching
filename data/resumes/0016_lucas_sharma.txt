@@ -1,0 +1,29 @@
+Lucas Sharma
+lucas.sharma@example.com | +1 (640) 793-6279 | Dublin
+
+SUMMARY
+DevOps engineer automating CI/CD and infrastructure-as-code across multi-cloud environments. 5+ years of professional experience.
+
+EXPERIENCE
+Lead DevOps Engineer — QuantumSoft, Dublin (2025 - Present)
+  - Reduced deployment time from hours to minutes with GitOps pipelines.
+  - Collaborated cross-functionally using Linux, Jenkins, Terraform.
+DevOps Engineer — DataNova, Dublin (2023 - 2025)
+  - Implemented IaC managing 200+ cloud resources via Terraform.
+  - Collaborated cross-functionally using Linux, Docker, Azure.
+DevOps Engineer — FinEdge, Dublin (2021 - 2023)
+  - Implemented IaC managing 200+ cloud resources via Terraform.
+  - Collaborated cross-functionally using Ansible, Python, Terraform.
+
+SKILLS
+Terraform, Docker, Azure, CI/CD, Linux, Kubernetes, Jenkins, Ansible, Python, AWS
+
+EDUCATION
+B.E. in Information Technology — University of Dublin (2018)
+
+PROJECTS
+- Reduced deployment time from hours to minutes with GitOps pipelines.
+- Implemented IaC managing 200+ cloud resources via Terraform.
+
+CERTIFICATIONS
+- Azure Solutions Architect Expert

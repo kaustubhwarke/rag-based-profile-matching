@@ -1,0 +1,9 @@
+Title: Cloud Solutions Architect
+
+Design secure, highly available, cost-efficient cloud systems.
+
+Must-have requirements:
+- 6+ years experience
+- AWS and Kubernetes
+- Terraform and Microservices
+- DevOps practices

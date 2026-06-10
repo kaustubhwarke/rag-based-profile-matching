@@ -1,0 +1,14 @@
+Title: Senior Machine Learning Engineer
+
+We are hiring a Senior Machine Learning Engineer to build production NLP and LLM systems,
+including retrieval-augmented generation (RAG) pipelines and semantic search.
+
+Responsibilities:
+- Design, train and deploy ML models with PyTorch and TensorFlow.
+- Build scalable inference services on AWS using Docker and Kubernetes.
+
+Must-have requirements:
+- 5+ years Python
+- Machine Learning and NLP experience
+- Experience with AWS
+- Strong knowledge of PyTorch or TensorFlow

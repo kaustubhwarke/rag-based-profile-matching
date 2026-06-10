@@ -1,0 +1,29 @@
+Fatima Tanaka
+fatima.tanaka@example.com | +1 (294) 589-2584 | Singapore
+
+SUMMARY
+Data scientist focused on predictive modelling, experimentation, and statistical inference for product analytics. 3+ years of professional experience.
+
+EXPERIENCE
+Lead Data Scientist — NimbusTech, Singapore (2025 - Present)
+  - Developed churn-prediction models improving retention by 12%.
+  - Collaborated cross-functionally using Python, Spark, SQL.
+Data Scientist — DataNova, Singapore (2024 - 2025)
+  - Developed churn-prediction models improving retention by 12%.
+  - Collaborated cross-functionally using Pandas, SQL, Tableau.
+Data Scientist — NimbusTech, Singapore (2023 - 2024)
+  - Developed churn-prediction models improving retention by 12%.
+  - Collaborated cross-functionally using scikit-learn, Pandas, Python.
+
+SKILLS
+Spark, NumPy, Machine Learning, R, Tableau, Pandas, Python, SQL, scikit-learn
+
+EDUCATION
+PhD in Statistics — University of Singapore (2021)
+
+PROJECTS
+- Designed an A/B testing framework adopted across 4 product teams.
+- Developed churn-prediction models improving retention by 12%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer

@@ -1,0 +1,26 @@
+Sofia Rossi
+sofia.rossi@example.com | +1 (633) 620-8651 | San Francisco
+
+SUMMARY
+Cloud architect designing secure, cost-efficient, highly available systems. 7+ years of professional experience.
+
+EXPERIENCE
+Staff Cloud Solutions Architect — Acme Corp, San Francisco (2023 - Present)
+  - Cut cloud spend 35% through rightsizing and savings plans.
+  - Collaborated cross-functionally using Microservices, GCP, Python.
+Cloud Solutions Architect — FinEdge, San Francisco (2019 - 2023)
+  - Designed a multi-region active-active architecture with 99.99% uptime.
+  - Collaborated cross-functionally using Linux, Python, GCP.
+
+SKILLS
+Linux, Microservices, Terraform, AWS, GCP, Kubernetes, Python, Azure, DevOps
+
+EDUCATION
+M.S. in Computer Science — University of San Francisco (2019)
+
+PROJECTS
+- Designed a multi-region active-active architecture with 99.99% uptime.
+- Cut cloud spend 35% through rightsizing and savings plans.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect

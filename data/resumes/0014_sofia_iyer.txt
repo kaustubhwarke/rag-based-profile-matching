@@ -1,0 +1,26 @@
+Sofia Iyer
+sofia.iyer@example.com | +1 (404) 671-6728 | Toronto
+
+SUMMARY
+ML engineer specialising in NLP and large language model systems, building production RAG and recommendation pipelines. 5+ years of professional experience.
+
+EXPERIENCE
+Staff Machine Learning Engineer — FinEdge, Toronto (2024 - Present)
+  - Built a retrieval-augmented generation pipeline serving 2M queries/day.
+  - Collaborated cross-functionally using NLP, AWS, scikit-learn.
+Machine Learning Engineer — HealthAI, Toronto (2021 - 2024)
+  - Built a retrieval-augmented generation pipeline serving 2M queries/day.
+  - Collaborated cross-functionally using LLM, scikit-learn, AWS.
+
+SKILLS
+LLM, NLP, AWS, SQL, PyTorch, TensorFlow, Docker, Python, scikit-learn, Kubernetes
+
+EDUCATION
+M.S. in Computer Science — University of Toronto (2018)
+
+PROJECTS
+- Built a retrieval-augmented generation pipeline serving 2M queries/day.
+- Fine-tuned transformer models reducing intent-classification error by 18%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator

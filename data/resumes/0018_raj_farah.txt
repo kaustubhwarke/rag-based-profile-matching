@@ -1,0 +1,29 @@
+Raj Farah
+raj.farah@example.com | +1 (444) 481-8206 | Bangalore
+
+SUMMARY
+Security engineer focused on application security, threat modelling, and cloud hardening. 12+ years of professional experience.
+
+EXPERIENCE
+Staff Security Engineer — FinEdge, Bangalore (2022 - Present)
+  - Led a zero-trust network segmentation rollout.
+  - Collaborated cross-functionally using CI/CD, AWS, Kubernetes.
+Security Engineer — DataNova, Bangalore (2018 - 2022)
+  - Built an automated SAST/DAST pipeline catching 90% of vulns pre-release.
+  - Collaborated cross-functionally using AWS, Linux, Docker.
+Security Engineer — CloudReach, Bangalore (2014 - 2018)
+  - Built an automated SAST/DAST pipeline catching 90% of vulns pre-release.
+  - Collaborated cross-functionally using Linux, Docker, DevOps.
+
+SKILLS
+AWS, Linux, DevOps, Python, REST, Docker, Kubernetes, CI/CD
+
+EDUCATION
+B.S. in Cybersecurity — University of Bangalore (2011)
+
+PROJECTS
+- Built an automated SAST/DAST pipeline catching 90% of vulns pre-release.
+- Led a zero-trust network segmentation rollout.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect

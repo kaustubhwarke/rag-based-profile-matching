@@ -1,0 +1,26 @@
+Wei Patel
+wei.patel@example.com | +1 (428) 342-2679 | Sydney
+
+SUMMARY
+ML engineer specialising in NLP and large language model systems, building production RAG and recommendation pipelines. 5+ years of professional experience.
+
+EXPERIENCE
+Lead Machine Learning Engineer — NimbusTech, Sydney (2024 - Present)
+  - Fine-tuned transformer models reducing intent-classification error by 18%.
+  - Collaborated cross-functionally using Python, SQL, PyTorch.
+Machine Learning Engineer — FinEdge, Sydney (2021 - 2024)
+  - Built a retrieval-augmented generation pipeline serving 2M queries/day.
+  - Collaborated cross-functionally using Kubernetes, Python, NLP.
+
+SKILLS
+scikit-learn, PyTorch, SQL, Python, TensorFlow, LLM, Docker, NLP, AWS, Kubernetes
+
+EDUCATION
+M.S. in Computer Science — University of Sydney (2019)
+
+PROJECTS
+- Built a retrieval-augmented generation pipeline serving 2M queries/day.
+- Fine-tuned transformer models reducing intent-classification error by 18%.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator

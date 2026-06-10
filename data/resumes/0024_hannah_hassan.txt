@@ -1,0 +1,29 @@
+Hannah Hassan
+hannah.hassan@example.com | +1 (941) 803-9595 | Amsterdam
+
+SUMMARY
+Frontend engineer crafting accessible, performant single-page applications. 6+ years of professional experience.
+
+EXPERIENCE
+Staff Frontend Engineer — DataNova, Amsterdam (2024 - Present)
+  - Led migration of a legacy app to React with a 40% load-time improvement.
+  - Collaborated cross-functionally using Node.js, TypeScript, React.
+Frontend Engineer — CloudReach, Amsterdam (2022 - 2024)
+  - Built a reusable component library used by 8 teams.
+  - Collaborated cross-functionally using JavaScript, GraphQL, Node.js.
+Frontend Engineer — CloudReach, Amsterdam (2020 - 2022)
+  - Built a reusable component library used by 8 teams.
+  - Collaborated cross-functionally using JavaScript, Git, Node.js.
+
+SKILLS
+React, REST, Git, JavaScript, Vue, TypeScript, GraphQL, Node.js
+
+EDUCATION
+B.S. in Computer Science — University of Amsterdam (2017)
+
+PROJECTS
+- Led migration of a legacy app to React with a 40% load-time improvement.
+- Built a reusable component library used by 8 teams.
+
+CERTIFICATIONS
+- Azure Solutions Architect Expert

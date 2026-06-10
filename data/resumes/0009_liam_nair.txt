@@ -1,0 +1,26 @@
+Liam Nair
+liam.nair@example.com | +1 (697) 692-4502 | Austin
+
+SUMMARY
+Security engineer focused on application security, threat modelling, and cloud hardening. 8+ years of professional experience.
+
+EXPERIENCE
+Senior Security Engineer — CloudReach, Austin (2022 - Present)
+  - Led a zero-trust network segmentation rollout.
+  - Collaborated cross-functionally using Python, Docker, AWS.
+Security Engineer — QuantumSoft, Austin (2018 - 2022)
+  - Led a zero-trust network segmentation rollout.
+  - Collaborated cross-functionally using DevOps, CI/CD, REST.
+
+SKILLS
+Docker, Kubernetes, Python, CI/CD, AWS, DevOps, Linux, REST
+
+EDUCATION
+B.S. in Cybersecurity — University of Austin (2016)
+
+PROJECTS
+- Built an automated SAST/DAST pipeline catching 90% of vulns pre-release.
+- Led a zero-trust network segmentation rollout.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
