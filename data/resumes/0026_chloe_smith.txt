@@ -1,0 +1,29 @@
+Chloe Smith
+chloe.smith@example.com | +1 (765) 276-3564 | San Francisco
+
+SUMMARY
+Backend engineer designing scalable microservices and high-throughput APIs. 4+ years of professional experience.
+
+EXPERIENCE
+Senior Senior Backend Engineer — QuantumSoft, San Francisco (2025 - Present)
+  - Built an event-driven payments service processing $50M/month.
+  - Collaborated cross-functionally using Kafka, Java, PostgreSQL.
+Senior Backend Engineer — HealthAI, San Francisco (2024 - 2025)
+  - Built an event-driven payments service processing $50M/month.
+  - Collaborated cross-functionally using REST, Spring, PostgreSQL.
+Senior Backend Engineer — HealthAI, San Francisco (2022 - 2024)
+  - Re-architected a monolith into 30+ microservices on Kubernetes.
+  - Collaborated cross-functionally using Microservices, Spring, PostgreSQL.
+
+SKILLS
+Redis, Docker, PostgreSQL, REST, Spring, Microservices, Java, Kubernetes, Kafka, Python
+
+EDUCATION
+B.Tech in Computer Engineering — University of San Francisco (2019)
+
+PROJECTS
+- Re-architected a monolith into 30+ microservices on Kubernetes.
+- Built an event-driven payments service processing $50M/month.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect

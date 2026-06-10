@@ -1,0 +1,26 @@
+Ahmed Johnson
+ahmed.johnson@example.com | +1 (915) 696-2989 | San Francisco
+
+SUMMARY
+DevOps engineer automating CI/CD and infrastructure-as-code across multi-cloud environments. 16+ years of professional experience.
+
+EXPERIENCE
+Staff DevOps Engineer — CloudReach, San Francisco (2018 - Present)
+  - Implemented IaC managing 200+ cloud resources via Terraform.
+  - Collaborated cross-functionally using Linux, AWS, CI/CD.
+DevOps Engineer — DataNova, San Francisco (2010 - 2018)
+  - Reduced deployment time from hours to minutes with GitOps pipelines.
+  - Collaborated cross-functionally using Azure, Jenkins, Python.
+
+SKILLS
+AWS, CI/CD, Azure, Ansible, Python, Docker, Linux, Kubernetes, Jenkins, Terraform
+
+EDUCATION
+B.E. in Information Technology — University of San Francisco (2009)
+
+PROJECTS
+- Reduced deployment time from hours to minutes with GitOps pipelines.
+- Implemented IaC managing 200+ cloud resources via Terraform.
+
+CERTIFICATIONS
+- Azure Solutions Architect Expert

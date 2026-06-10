@@ -1,0 +1,26 @@
+Wei Farah
+wei.farah@example.com | +1 (500) 645-3591 | Dublin
+
+SUMMARY
+DevOps engineer automating CI/CD and infrastructure-as-code across multi-cloud environments. 3+ years of professional experience.
+
+EXPERIENCE
+Lead DevOps Engineer — HealthAI, Dublin (2025 - Present)
+  - Reduced deployment time from hours to minutes with GitOps pipelines.
+  - Collaborated cross-functionally using Linux, Azure, Kubernetes.
+DevOps Engineer — BrightLabs, Dublin (2023 - 2025)
+  - Reduced deployment time from hours to minutes with GitOps pipelines.
+  - Collaborated cross-functionally using Terraform, Docker, Python.
+
+SKILLS
+Docker, Azure, CI/CD, Jenkins, Ansible, Terraform, Kubernetes, AWS, Python, Linux
+
+EDUCATION
+B.E. in Information Technology — University of Dublin (2021)
+
+PROJECTS
+- Reduced deployment time from hours to minutes with GitOps pipelines.
+- Implemented IaC managing 200+ cloud resources via Terraform.
+
+CERTIFICATIONS
+- Google Professional ML Engineer

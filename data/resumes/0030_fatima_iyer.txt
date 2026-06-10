@@ -1,0 +1,29 @@
+Fatima Iyer
+fatima.iyer@example.com | +1 (271) 482-7798 | Singapore
+
+SUMMARY
+Frontend engineer crafting accessible, performant single-page applications. 15+ years of professional experience.
+
+EXPERIENCE
+Senior Frontend Engineer — Acme Corp, Singapore (2021 - Present)
+  - Built a reusable component library used by 8 teams.
+  - Collaborated cross-functionally using Node.js, REST, Git.
+Frontend Engineer — NimbusTech, Singapore (2016 - 2021)
+  - Built a reusable component library used by 8 teams.
+  - Collaborated cross-functionally using React, Vue, Node.js.
+Frontend Engineer — QuantumSoft, Singapore (2011 - 2016)
+  - Built a reusable component library used by 8 teams.
+  - Collaborated cross-functionally using GraphQL, Node.js, REST.
+
+SKILLS
+JavaScript, Git, GraphQL, Node.js, TypeScript, React, Vue, REST
+
+EDUCATION
+B.S. in Computer Science — University of Singapore (2010)
+
+PROJECTS
+- Led migration of a legacy app to React with a 40% load-time improvement.
+- Built a reusable component library used by 8 teams.
+
+CERTIFICATIONS
+- Azure Solutions Architect Expert

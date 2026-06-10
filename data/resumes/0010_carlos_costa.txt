@@ -1,0 +1,26 @@
+Carlos Costa
+carlos.costa@example.com | +1 (720) 282-4044 | Bangalore
+
+SUMMARY
+Research engineer advancing language understanding with transformer architectures and RAG. 2+ years of professional experience.
+
+EXPERIENCE
+Senior NLP Research Engineer — FinEdge, Bangalore (2025 - Present)
+  - Built a semantic search engine over 10M documents.
+  - Collaborated cross-functionally using PyTorch, Deep Learning, Docker.
+NLP Research Engineer — NimbusTech, Bangalore (2024 - 2025)
+  - Published 3 papers on retrieval-augmented generation.
+  - Collaborated cross-functionally using PyTorch, LLM, TensorFlow.
+
+SKILLS
+Python, Deep Learning, LLM, Docker, Machine Learning, PyTorch, NLP, TensorFlow
+
+EDUCATION
+PhD in Computer Science — University of Bangalore (2023)
+
+PROJECTS
+- Published 3 papers on retrieval-augmented generation.
+- Built a semantic search engine over 10M documents.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator

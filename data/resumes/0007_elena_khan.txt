@@ -1,0 +1,26 @@
+Elena Khan
+elena.khan@example.com | +1 (802) 767-4770 | Amsterdam
+
+SUMMARY
+Full-stack developer delivering end-to-end features from database to UI. 2+ years of professional experience.
+
+EXPERIENCE
+Lead Full Stack Developer — Acme Corp, Amsterdam (2025 - Present)
+  - Shipped a SaaS billing module end-to-end used by 500+ customers.
+  - Collaborated cross-functionally using JavaScript, Node.js, TypeScript.
+Full Stack Developer — Acme Corp, Amsterdam (2024 - 2025)
+  - Built REST and GraphQL APIs powering a React dashboard.
+  - Collaborated cross-functionally using TypeScript, MongoDB, Node.js.
+
+SKILLS
+React, Python, JavaScript, MongoDB, Django, TypeScript, REST, Node.js, PostgreSQL, Express
+
+EDUCATION
+B.S. in Software Engineering — University of Amsterdam (2021)
+
+PROJECTS
+- Shipped a SaaS billing module end-to-end used by 500+ customers.
+- Built REST and GraphQL APIs powering a React dashboard.
+
+CERTIFICATIONS
+- Google Professional ML Engineer

@@ -1,0 +1,26 @@
+Wei Lopez
+wei.lopez@example.com | +1 (226) 519-7149 | Austin
+
+SUMMARY
+DevOps engineer automating CI/CD and infrastructure-as-code across multi-cloud environments. 11+ years of professional experience.
+
+EXPERIENCE
+DevOps Engineer — DataNova, Austin (2021 - Present)
+  - Reduced deployment time from hours to minutes with GitOps pipelines.
+  - Collaborated cross-functionally using Azure, Kubernetes, Python.
+DevOps Engineer — NimbusTech, Austin (2015 - 2021)
+  - Reduced deployment time from hours to minutes with GitOps pipelines.
+  - Collaborated cross-functionally using Docker, Linux, CI/CD.
+
+SKILLS
+Kubernetes, Terraform, Linux, CI/CD, Jenkins, Ansible, AWS, Python, Azure, Docker
+
+EDUCATION
+B.E. in Information Technology — University of Austin (2012)
+
+PROJECTS
+- Reduced deployment time from hours to minutes with GitOps pipelines.
+- Implemented IaC managing 200+ cloud resources via Terraform.
+
+CERTIFICATIONS
+- Google Professional ML Engineer

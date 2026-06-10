@@ -1,0 +1,26 @@
+Chloe Wang
+chloe.wang@example.com | +1 (488) 819-4450 | Singapore
+
+SUMMARY
+Data scientist focused on predictive modelling, experimentation, and statistical inference for product analytics. 6+ years of professional experience.
+
+EXPERIENCE
+Senior Data Scientist — HealthAI, Singapore (2023 - Present)
+  - Developed churn-prediction models improving retention by 12%.
+  - Collaborated cross-functionally using SQL, Python, Spark.
+Data Scientist — Streamline, Singapore (2020 - 2023)
+  - Developed churn-prediction models improving retention by 12%.
+  - Collaborated cross-functionally using Python, R, NumPy.
+
+SKILLS
+Tableau, Python, R, Spark, scikit-learn, Machine Learning, Pandas, SQL, NumPy
+
+EDUCATION
+PhD in Statistics — University of Singapore (2020)
+
+PROJECTS
+- Designed an A/B testing framework adopted across 4 product teams.
+- Developed churn-prediction models improving retention by 12%.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect

@@ -1,0 +1,8 @@
+Title: Frontend Engineer
+
+Craft performant, accessible single-page applications.
+
+Must-have requirements:
+- 3+ years JavaScript
+- Strong React and TypeScript skills
+- Experience with GraphQL and REST APIs

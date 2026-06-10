@@ -1,0 +1,29 @@
+Lia Haddad
+lia.haddad@example.com | +1 (886) 307-3634 | Singapore
+
+SUMMARY
+Full-stack developer delivering end-to-end features from database to UI. 7+ years of professional experience.
+
+EXPERIENCE
+Lead Full Stack Developer — QuantumSoft, Singapore (2024 - Present)
+  - Built REST and GraphQL APIs powering a React dashboard.
+  - Collaborated cross-functionally using Django, MongoDB, JavaScript.
+Full Stack Developer — QuantumSoft, Singapore (2022 - 2024)
+  - Shipped a SaaS billing module end-to-end used by 500+ customers.
+  - Collaborated cross-functionally using Python, Express, REST.
+Full Stack Developer — DataNova, Singapore (2019 - 2022)
+  - Built REST and GraphQL APIs powering a React dashboard.
+  - Collaborated cross-functionally using MongoDB, JavaScript, PostgreSQL.
+
+SKILLS
+MongoDB, TypeScript, Python, PostgreSQL, REST, React, Express, Node.js, JavaScript, Django
+
+EDUCATION
+B.S. in Software Engineering — University of Singapore (2019)
+
+PROJECTS
+- Shipped a SaaS billing module end-to-end used by 500+ customers.
+- Built REST and GraphQL APIs powering a React dashboard.
+
+CERTIFICATIONS
+- Google Professional ML Engineer

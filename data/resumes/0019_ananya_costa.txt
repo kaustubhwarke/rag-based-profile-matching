@@ -1,0 +1,26 @@
+Ananya Costa
+ananya.costa@example.com | +1 (971) 599-7865 | Sydney
+
+SUMMARY
+ML engineer specialising in NLP and large language model systems, building production RAG and recommendation pipelines. 6+ years of professional experience.
+
+EXPERIENCE
+Lead Machine Learning Engineer — QuantumSoft, Sydney (2023 - Present)
+  - Built a retrieval-augmented generation pipeline serving 2M queries/day.
+  - Collaborated cross-functionally using LLM, AWS, Docker.
+Machine Learning Engineer — Acme Corp, Sydney (2020 - 2023)
+  - Fine-tuned transformer models reducing intent-classification error by 18%.
+  - Collaborated cross-functionally using scikit-learn, AWS, TensorFlow.
+
+SKILLS
+Kubernetes, PyTorch, AWS, SQL, scikit-learn, LLM, NLP, Python, TensorFlow, Docker
+
+EDUCATION
+M.S. in Computer Science — University of Sydney (2019)
+
+PROJECTS
+- Built a retrieval-augmented generation pipeline serving 2M queries/day.
+- Fine-tuned transformer models reducing intent-classification error by 18%.
+
+CERTIFICATIONS
+- Azure Solutions Architect Expert

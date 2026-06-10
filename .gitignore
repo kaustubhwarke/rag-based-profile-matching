@@ -1,1 +1,88 @@
-//gitignore content
+# ============================================================================
+# Profile Matching — .gitignore
+# ============================================================================
+
+# ---- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ---- Virtual environments --------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# ---- Environment / secrets -------------------------------------------------
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+
+# ---- Testing / coverage ----------------------------------------------------
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.tox/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+
+# ---- Vector store / model artifacts (regenerated at runtime) ---------------
+.vectorstore/
+*.chroma/
+chroma/
+.cache/
+models/
+*.bin
+*.pt
+*.onnx
+embeddings_cache/
+
+# ---- Generated outputs -----------------------------------------------------
+outputs/
+results/
+*.log
+logs/
+
+# ---- Jupyter ---------------------------------------------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# ---- IDE / editor ----------------------------------------------------------
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ---- OS --------------------------------------------------------------------
+desktop.ini
+$RECYCLE.BIN/

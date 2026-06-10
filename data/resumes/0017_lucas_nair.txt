@@ -1,0 +1,26 @@
+Lucas Nair
+lucas.nair@example.com | +1 (968) 988-2746 | Austin
+
+SUMMARY
+Backend engineer designing scalable microservices and high-throughput APIs. 16+ years of professional experience.
+
+EXPERIENCE
+Senior Backend Engineer — CloudReach, Austin (2018 - Present)
+  - Built an event-driven payments service processing $50M/month.
+  - Collaborated cross-functionally using Java, Docker, PostgreSQL.
+Senior Backend Engineer — DataNova, Austin (2010 - 2018)
+  - Built an event-driven payments service processing $50M/month.
+  - Collaborated cross-functionally using Python, REST, Redis.
+
+SKILLS
+Java, Redis, Python, Spring, PostgreSQL, Kafka, Kubernetes, Microservices, Docker, REST
+
+EDUCATION
+B.Tech in Computer Engineering — University of Austin (2007)
+
+PROJECTS
+- Re-architected a monolith into 30+ microservices on Kubernetes.
+- Built an event-driven payments service processing $50M/month.
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator

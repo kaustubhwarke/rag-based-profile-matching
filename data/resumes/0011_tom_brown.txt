@@ -1,0 +1,26 @@
+Tom Brown
+tom.brown@example.com | +1 (836) 776-2638 | Bangalore
+
+SUMMARY
+Data scientist focused on predictive modelling, experimentation, and statistical inference for product analytics. 9+ years of professional experience.
+
+EXPERIENCE
+Data Scientist — BrightLabs, Bangalore (2022 - Present)
+  - Developed churn-prediction models improving retention by 12%.
+  - Collaborated cross-functionally using NumPy, Machine Learning, Python.
+Data Scientist — FinEdge, Bangalore (2017 - 2022)
+  - Developed churn-prediction models improving retention by 12%.
+  - Collaborated cross-functionally using SQL, NumPy, scikit-learn.
+
+SKILLS
+scikit-learn, Pandas, NumPy, Python, Tableau, Machine Learning, Spark, SQL, R
+
+EDUCATION
+PhD in Statistics — University of Bangalore (2017)
+
+PROJECTS
+- Designed an A/B testing framework adopted across 4 product teams.
+- Developed churn-prediction models improving retention by 12%.
+
+CERTIFICATIONS
+- Google Professional ML Engineer
